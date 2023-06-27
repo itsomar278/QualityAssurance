@@ -1,0 +1,2038 @@
+{
+	"id": "b90e7935-389c-4e3c-856d-b91dcfd0b9b7",
+	"name": "New Collection",
+	"timestamp": "2023-06-27T13:27:23.126Z",
+	"collection_id": "24239968-d0cf6ba3-97f6-485f-9304-2189b886c63c",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 1000,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2023-06-27T13:27:01.002Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "0fa628f3-983a-4715-90fd-85958ee0b701",
+			"name": "New Request",
+			"url": "http://localhost:8080/Converter",
+			"time": 10,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"GET /Converter returns the expected view": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 100,
+					"fail": 0
+				},
+				"GET /Converter returns the expected view": {
+					"pass": 100,
+					"fail": 0
+				}
+			},
+			"times": [
+				10,
+				10,
+				9,
+				9,
+				13,
+				10,
+				9,
+				10,
+				10,
+				10,
+				9,
+				10,
+				10,
+				9,
+				10,
+				9,
+				15,
+				10,
+				15,
+				10,
+				12,
+				10,
+				10,
+				10,
+				13,
+				9,
+				9,
+				11,
+				10,
+				9,
+				15,
+				9,
+				10,
+				11,
+				9,
+				9,
+				10,
+				9,
+				9,
+				10,
+				9,
+				9,
+				9,
+				10,
+				9,
+				9,
+				9,
+				10,
+				9,
+				9,
+				10,
+				9,
+				9,
+				10,
+				9,
+				10,
+				9,
+				10,
+				10,
+				9,
+				14,
+				9,
+				9,
+				13,
+				17,
+				10,
+				9,
+				10,
+				9,
+				10,
+				9,
+				9,
+				13,
+				11,
+				9,
+				11,
+				9,
+				10,
+				12,
+				11,
+				10,
+				10,
+				10,
+				9,
+				9,
+				9,
+				9,
+				9,
+				14,
+				9,
+				9,
+				9,
+				9,
+				10,
+				10,
+				10,
+				9,
+				9,
+				10,
+				10
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				},
+				{
+					"Status code is 200": true,
+					"GET /Converter returns the expected view": true
+				}
+			]
+		},
+		{
+			"id": "49300c8a-3ed0-464e-98a8-ddf40bfd8581",
+			"name": "New Request",
+			"url": "http://localhost:8080/exchange-rate",
+			"time": 100,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Body matches string": true,
+				"Status code is 200": true,
+				"Check if result is success": true,
+				"POST /exchange-rate returns success response": true
+			},
+			"testPassFailCounts": {
+				"Body matches string": {
+					"pass": 100,
+					"fail": 0
+				},
+				"Status code is 200": {
+					"pass": 100,
+					"fail": 0
+				},
+				"Check if result is success": {
+					"pass": 100,
+					"fail": 0
+				},
+				"POST /exchange-rate returns success response": {
+					"pass": 100,
+					"fail": 0
+				}
+			},
+			"times": [
+				180,
+				133,
+				160,
+				151,
+				158,
+				273,
+				162,
+				154,
+				156,
+				119,
+				167,
+				151,
+				162,
+				98,
+				176,
+				584,
+				91,
+				155,
+				153,
+				270,
+				151,
+				265,
+				209,
+				164,
+				167,
+				152,
+				124,
+				124,
+				152,
+				157,
+				188,
+				95,
+				156,
+				154,
+				98,
+				302,
+				178,
+				152,
+				148,
+				99,
+				92,
+				110,
+				152,
+				151,
+				149,
+				194,
+				152,
+				94,
+				152,
+				98,
+				157,
+				154,
+				154,
+				156,
+				152,
+				100,
+				184,
+				153,
+				153,
+				156,
+				155,
+				120,
+				160,
+				156,
+				104,
+				94,
+				151,
+				150,
+				150,
+				150,
+				147,
+				105,
+				153,
+				151,
+				123,
+				157,
+				150,
+				106,
+				155,
+				172,
+				206,
+				151,
+				122,
+				117,
+				96,
+				148,
+				146,
+				123,
+				93,
+				152,
+				172,
+				156,
+				161,
+				148,
+				153,
+				150,
+				93,
+				153,
+				152,
+				100
+			],
+			"allTests": [
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				},
+				{
+					"Body matches string": true,
+					"Status code is 200": true,
+					"Check if result is success": true,
+					"POST /exchange-rate returns success response": true
+				}
+			]
+		},
+		{
+			"id": "00e649df-71b4-4d2c-8dda-e1a2af24d75f",
+			"name": "New Request",
+			"url": "http://localhost:8080/exchange-rate",
+			"time": 3,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Check if result is success": true,
+				"Check if conversion_result is 0.0": true,
+				"Status code is 200": true,
+				"POST /exchange-rate returns failure response": true
+			},
+			"testPassFailCounts": {
+				"Check if result is success": {
+					"pass": 100,
+					"fail": 0
+				},
+				"Check if conversion_result is 0.0": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code is 200": {
+					"pass": 100,
+					"fail": 0
+				},
+				"POST /exchange-rate returns failure response": {
+					"pass": 100,
+					"fail": 0
+				}
+			},
+			"times": [
+				4,
+				4,
+				3,
+				3,
+				4,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				4,
+				4,
+				4,
+				3,
+				3,
+				3,
+				4,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				4,
+				3,
+				4,
+				3,
+				2,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				2,
+				2,
+				3,
+				3,
+				2,
+				2,
+				2,
+				3,
+				2,
+				3,
+				3,
+				3,
+				3,
+				3,
+				2,
+				2,
+				3,
+				3,
+				3,
+				2,
+				2,
+				3,
+				2,
+				2,
+				3
+			],
+			"allTests": [
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				},
+				{
+					"Check if result is success": true,
+					"Check if conversion_result is 0.0": true,
+					"Status code is 200": true,
+					"POST /exchange-rate returns failure response": true
+				}
+			]
+		}
+	],
+	"count": 100,
+	"totalTime": 16653,
+	"collection": {
+		"requests": [
+			{
+				"id": "0fa628f3-983a-4715-90fd-85958ee0b701",
+				"method": "GET"
+			},
+			{
+				"id": "49300c8a-3ed0-464e-98a8-ddf40bfd8581",
+				"method": "POST"
+			},
+			{
+				"id": "00e649df-71b4-4d2c-8dda-e1a2af24d75f",
+				"method": "POST"
+			}
+		]
+	}
+}
